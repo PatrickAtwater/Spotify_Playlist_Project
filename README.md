@@ -37,7 +37,7 @@ For this project, I am going to utilize Spotify’s API to gain insight into the
 ![image](https://user-images.githubusercontent.com/83980785/129942114-4aaf7b1b-81a6-4d3c-8926-40db4384dd8d.png)
 ## Dashboards
 ### **Genre Dashboard**
-### **Playlist Dashboard** [Click here to access Dashboard via web](https://app.powerbi.com/view?r=eyJrIjoiMTRhMTYyMGEtNmY2NC00ZmNhLWE4NzgtNWYzNDJiNWYyMGNkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+### **Playlist and Genre Dashboards** [Click here to access Dashboard via web](https://app.powerbi.com/view?r=eyJrIjoiZDI2YjBlMmUtY2ZkYi00NmExLThmYzctNjg3MWQwZDk1OTdmIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 ![image](https://user-images.githubusercontent.com/83980785/129941580-1e550934-04f4-4b1a-b39d-b9477a2aa6c1.png)
 
 
